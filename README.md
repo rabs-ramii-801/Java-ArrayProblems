@@ -1,30 +1,48 @@
 ﻿# Java-ArrayProblems
 A Java project that includes several utility functions to perform various operations on arrays. This code is designed to help users explore fundamental array manipulations in Java, from calculating sums to identifying unique elements. The project provides a series of methods that demonstrate common tasks and operations with arrays.
 
-Features
-The ArrayProblems class offers the following functionalities:
 
-Traverse Array - Prints the elements of a given array.
+# Features
+# The ArrayProblems class offers the following functionalities:
+
+# Traverse Array - Prints the elements of a given array.
+
 Sum of Array - Calculates the sum of all elements in the array.
+
 Find Largest and Smallest Elements - Identifies the largest and smallest elements in the array.
+
 Find Repeating Elements - Lists all elements that appear more than once.
+
 Find Non-Repeating Elements - Lists all unique elements in the array.
+
 Reverse Array - Reverses the order of elements in the array.
+
 Count Frequency of Elements - Calculates the frequency of each element.
+
 Elements at Even and Odd Positions - Separates elements based on their positions (even or odd index).
+
 Search for a Key - Checks if a specific element exists in the array.
+
 Remove Duplicates - Returns an array with duplicate values removed.
-Getting Started
+
+# Getting Started
 Prerequisites
+
 Java Development Kit (JDK) installed (version 8 or higher).
+
 Basic knowledge of Java and the command line.
-Running the Program
-Compile the Program:
+
+# Running the Program
+# Compile the Program:
 
 bash
+
 Copy code
+
 javac ArrayProblems.java
+
 Run the Program:
+
 
 bash
 Copy code
