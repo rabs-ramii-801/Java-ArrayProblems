@@ -3,9 +3,9 @@ A Java project that includes several utility functions to perform various operat
 
 
 # Features
-# The ArrayProblems class offers the following functionalities:
+The ArrayProblems class offers the following functionalities:
 
-# Traverse Array - Prints the elements of a given array.
+Traverse Array - Prints the elements of a given array.
 
 Sum of Array - Calculates the sum of all elements in the array.
 
@@ -26,7 +26,7 @@ Search for a Key - Checks if a specific element exists in the array.
 Remove Duplicates - Returns an array with duplicate values removed.
 
 # Getting Started
-Prerequisites
+# Prerequisites
 
 Java Development Kit (JDK) installed (version 8 or higher).
 
@@ -45,35 +45,64 @@ Run the Program:
 
 
 bash
+
 Copy code
+
 java ArrayProblems
+
 Input and Output:
 
+
 Enter the size of the array when prompted.
+
 Input array elements as prompted.
+
 The program will display results for each functionality implemented.
+
 Example
+
 Input:
 
+
 text
+
 Copy code
+
 Enter the size of the array: 5
+
 Enter 5 elements: 2 3 5 3 2
+
 Output:
 
 text
+
 Copy code
+
 Your inputted Array is: 2 3 5 3 2
+
 Sum of all elements of the array is: 15
+
 Smallest element in the array is: 2
+
 Largest element in the array is: 5
+
 All Repeating elements in the given array are: 2 3
+
 All non-repeating elements in the array are: 5
+
 Reverse of the given array is: 2 3 5 3 2
+
 Frequency of each element in the array is: 2:2 3:2 5:1
+
 Elements at even places are: 3 3
+
 Elements at odd places are: 2 5 2
+
 Key found
+
 Array after removing all duplicate elements are: 2 3 5
+
 License
+
 This project is open-source and available on GitHub.
+
